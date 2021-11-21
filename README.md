@@ -5,8 +5,6 @@
 </p>
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-
-<h1 align="center">Keep Working Hard!!</h1>
   
 ![VitorRoecker's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorroecker&show_icons=true&theme=prussian&hide_border=false&bg_color=161b22)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorroecker&langs_count=3&theme=prussian&hide_border=false&bg_color=161b22)
