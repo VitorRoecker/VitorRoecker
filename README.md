@@ -27,16 +27,7 @@ I'm a **Software Developer** from Joinville, Brazil, passionate about programmin
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vitorroecker&show_icons=true&theme=prussian&hide_border=false&bg_color=161b22&rank_icon=title" alt="VitorRoecker's GitHub stats" style="margin-right: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorroecker&langs_count=5&theme=prussian&hide_border=false&bg_color=161b22&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-## 🤝 Connect with Me
+<h3 align="center">🤝 Connect with Me</h3>
 
 <div align="center">
     <a href = "mailto:vitoradrielroecker@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"></a>
